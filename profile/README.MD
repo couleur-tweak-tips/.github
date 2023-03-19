@@ -16,38 +16,37 @@
 
 ## <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_64.svg?sanitize=true" alt="PS7 logo" width="24" /> [TweakList](https://github.com/couleur-tweak-tips/TweakList)
 
-###### `""""Stable""" 🟢`
+###### `"Stable" 🟢`
 
-Lightweight and easy to use collection of PowerShell functions which can be ran with a single command  The `Optimize-` functions will tweak a specified program's settings file (e.g `Optimize-LunarClient` / `Optimize-OBS`).  Most of them let you you get prompted with a list of tweaks to tick, note it will cleverly modify settings. (it uses serialization instead of outright overwriting your files, your other personal settings won't be lost)
+Lightweight and easy to use collection of PowerShell functions which can be ran with a single command. The `Optimize-` functions (such as `Optimize-LunarClient` or `Optimize-OBS`) will tweak the specified program's settings files.  Most of them prompt the user with a list of tweaks to apply. Settings are applied using serialization, meaning unrelated settings (like keybinds) aren't overwritten.
 
 ## <img alt="Smoothie" src="https://i.imgur.com/K20ymPM.png" width="20" /> [Smoothie](https://github.com/couleur-tweak-tips/smoothie) (currently being rewritten @ [smoothie-rs](https://github.com/couleur-tweak-tips/smoothie-rs))
 
-###### `Currently migrating language 🟠`
+###### `Currently migrating languages 🟠`
 
-Highly customizable motion-blur effect suite for video-game footage (based on VapourSynth), see the [demo playlist](https://www.youtube.com/playlist?list=PLrsLsEZL_o4M_yTqZGwN5cM5ZxJTqkWkZ) for examples
+Highly customizable program, based on VapourSynth, which can add motion blur to video game footage. See the [demo playlist](https://www.youtube.com/playlist?list=PLrsLsEZL_o4M_yTqZGwN5cM5ZxJTqkWkZ) for examples.
 
 ## suckless-cut
 
-###### `Not functional yet 🔴`
+###### `Not yet functional 🔴`
 
-lua-based mpv script to cut your videos in a very similar fashion to the electron based (AKA slow 😢) [LosslessCut](https://github.com/mifi/Lossless-Cut)
+Lua-based mpv script to cut your videos in a similar fashion to the electron based (and thus slow 😢) [LosslessCut](https://github.com/mifi/Lossless-Cut).
 
 # Miscellaneous Projects
 
-Theses are either not on priority or paused 👍
+Development of these is paused and/or not a priority 👍
 
 ## [🌙 Moony](https://github.com/couleur-tweak-tips/Moony)
 
-###### `Keeps breaking, PRs open 🟣`
+###### `Keeps breaking, PRs are open 🟣`
 
-Minimalistic and unlocked third-party [Lunar Client](https://lunarclient.com) launcher
+Minimalistic and unrestricted third-party [Lunar Client](https://lunarclient.com) launcher
 
 ## [🌳 Show-ModuleTree](https://github.com/couleur-tweak-tips/Show-ModuleTree)
 
+###### `Lack of interest (most of the code is already present) 💀`
 
-###### `Lack of interest (a good part of the code is present) 💀`
-
-Generates a bird's view of your PowerShell module and it's .ps1 files' content
+Generates a bird's-eye view of a PowerShell module and the contents of its .ps1 files.
 
 * [/src/](https://github.com/couleur-tweak-tips/Show-ModuleTree/tree/master/src)
   * [/Public/](https://github.com/couleur-tweak-tips/Show-ModuleTree/tree/master/src/Public)
@@ -59,4 +58,4 @@ Generates a bird's view of your PowerShell module and it's .ps1 files' content
          * Function ``Booz`` - Does Bawz
    * [/Private/](https://github.com/couleur-tweak-tips/Show-ModuleTree/tree/master/src/Private)
      * PrivateFile.ps1
-       * function ``Show-PrivateFunction`` - I think I got to the point..
+       * function ``Show-PrivateFunction`` - I think you get the point...
