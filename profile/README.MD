@@ -32,7 +32,7 @@ Highly customizable program, based on VapourSynth, which can add motion blur to 
 
 Lua-based mpv script to cut your videos in a similar fashion to the electron based (and thus slow 😢) [LosslessCut](https://github.com/mifi/Lossless-Cut).
 
-# Deprecated Repositories
+# 🪦 Deprecated Repositories
 
 Development of these is paused and/or not a priority 👍
 
