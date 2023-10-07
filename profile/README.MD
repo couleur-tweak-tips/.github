@@ -12,7 +12,15 @@
 
 # Ongoing Projects
 
+## <img src="https://i.imgur.com/pmtO1ph.png?sanitize=true" alt="PS7 logo" width="24" /> [/CTT](https://github.com/couleur-tweak-tips/CTT)
 
+###### `Most of the docs still on discord 🟠`
+
+[Eponymous](https://www.wordnik.com/words/eponymous) project originally hosted on [a discord server](https://discord.gg/CTT) it is now [an MkDocs wiki](https://squidfunk.github.io/mkdocs-material/) that documents and explains video production & Windows tweaking & tuning.
+* Useage and configuration of [OBS](https://obsproject.com), [Smoothie](https://github.com/couleur-tweak-tips/Smoothie), [Blur](https://github.com/f0e/blur), Adobe Premiere Pro, After Effects, VEGAS Pro
+* Quality of life programs like AltSnap, ShareX, PowerToys, SearchEverything, espanso
+
+Moving from Discord to Git & Markdown means more freedom, archiving, easier collaboration and markup options.
 
 ## <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_64.svg?sanitize=true" alt="PS7 logo" width="24" /> [TweakList](https://github.com/couleur-tweak-tips/TweakList)
 
