@@ -36,7 +36,7 @@ Highly customizable program, based on VapourSynth, which can add motion blur to 
 
 ## suckless-cut
 
-###### `Not yet functional 🟠`
+###### `Stable 🟢`
 
 Lua-based mpv script to cut your videos in a similar fashion to the electron based (and thus slow 😢) [LosslessCut](https://github.com/mifi/Lossless-Cut).
 
@@ -45,7 +45,7 @@ Lua-based mpv script to cut your videos in a similar fashion to the electron bas
 Development of these is paused and/or not a priority.
 
 ## [🧧 utils](https://github.com/couleur-tweak-tips/utils)
-###### Now only used as a [Scoop bucket](https://github.com/couleur-tweak-tips/utils/tree/main/bucket), see [/bucket/](https://github.com/couleur-tweak-tips/utils/tree/main/bucket)
+###### 🟢 Now only used as a [Scoop bucket](https://github.com/couleur-tweak-tips/utils/tree/main/bucket), see [/bucket/](https://github.com/couleur-tweak-tips/utils/tree/main/bucket)
 
 Legacy repository that held PowerShell functions.
 
